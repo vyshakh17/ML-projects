@@ -1,0 +1,5 @@
+
+# INDIAN TOURIST PREDICTION
+India is a country that attracts millions of tourists every year and is considered one of the most popular tourist destinations in the world. These visitors are attracted to its natural beauty and cultural heritage. It has many historic sites as well like the Taj Mahal, Golden Temple, Red Fort, etc.India witnessed 677.63 million domestic tourist visits in 2021. This is a 11.05 per cent increase from 2020's figures.Domestic tourism comprises the activities of residents of a given country travelling to and staying in places inside their residential country, but outside their usual environment for not more than 12 consecutive months for leisure, business or other purposes.
+           In this project we processing and exploring data on Indian tourism statistics. Each row in the dataset represents a tourist spots, whereas, each column contains different attributes.It contains information regarding the indian tourist spots and places from various parts of India. It also providing information regarding the travel population and growth of domestic tourism in India.
+
